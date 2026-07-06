@@ -1,5 +1,9 @@
 # 🚗 AI Accident Detection using Deep Learning
 
+![main_webpage](main_webpage.png)
+
+![webpage_result](webpage_result.png)
+
 ## Overview
 
 This project focuses on developing an intelligent image classification system that can identify whether a road scene represents an accident or a normal traffic situation. The objective was to explore different deep learning techniques and determine which approach provides the most reliable performance for accident detection.
