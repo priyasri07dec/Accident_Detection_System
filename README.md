@@ -98,43 +98,6 @@ The application allows users to:
 
 ---
 
-## Repository Structure
-
-```
-AI_Accident_Detection/
-│
-├── Dataset/
-├── Accident_Detection.ipynb
-├── app.py
-├── final_accident_model.keras
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-github-username/AI-Accident-Detection.git
-```
-
-Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## Future Scope
 
 This project can be extended in several ways:
